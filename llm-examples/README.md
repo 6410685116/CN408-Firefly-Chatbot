@@ -1,5 +1,4 @@
-# 🎈 Streamlit + LLM Examples App
-
+# CN 408 Final Project
 
 ## Run it locally
 
